@@ -1,0 +1,55 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat ;
+}
+
+
+img{
+    width: 100px;
+    height: 100px;
+
+}
+
+#button{
+    border: none;
+    outline: none;
+    background-color: none;
+    display: inline;
+    margin-top: 0px;
+    margin-left: 900px;
+}
+
+.Home{
+    color: white;
+    font: normal 1000px 1200px;
+
+}
+
+/*
+About us
+*/
+.ab{
+    color: whitesmoke;
+    margin-top: 10%;
+    font: oblique 600px 500px "Times New Roman";
+}
+
+
+/*
+Services
+*/
+.ser{
+    color: white;
+    margin-top: 5%;
+    font: oblique 600px 1000px "times new roman";
+}
+
+/*
+contact
+*/
+.con{
+    color: white;
+    margin-top: 5%;
+    font: oblique 600px 1000px "times new roman";
+}
